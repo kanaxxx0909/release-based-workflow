@@ -29,7 +29,9 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	/* Add background-color declaration here */
+## Description: 
+- Changed page background color to black.
+- Changed game text color to green.　/* Add background-color declaration here */
 }
 ol, ul {
 	list-style: none;
